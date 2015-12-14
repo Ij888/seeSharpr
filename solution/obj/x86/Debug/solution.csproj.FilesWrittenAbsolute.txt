@@ -1,5 +1,0 @@
-/Users/ijemofili/Documents/GitHub/seeSharpr/solution/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/Users/ijemofili/Documents/GitHub/seeSharpr/solution/bin/Debug/solution.exe.mdb
-/Users/ijemofili/Documents/GitHub/seeSharpr/solution/bin/Debug/solution.exe
-/Users/ijemofili/Documents/GitHub/seeSharpr/solution/obj/x86/Debug/solution.exe
-/Users/ijemofili/Documents/GitHub/seeSharpr/solution/obj/x86/Debug/solution.exe.mdb
